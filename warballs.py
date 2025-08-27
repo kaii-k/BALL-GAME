@@ -219,3 +219,5 @@ while running:
 
 pygame.quit()
 
+#lol this is for nothing 
+
